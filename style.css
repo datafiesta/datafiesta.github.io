@@ -22,3 +22,5 @@ ol.etapes li{margin-bottom:12px}
 .date{color:var(--doux);font-size:14px}
 footer{border-top:1px solid var(--bord);margin-top:56px}
 footer .barre{color:var(--doux);font-size:14px;justify-content:space-between}
+figure.capture{margin:16px 0 28px}figure.capture img{display:block;max-width:100%;height:auto;border:1px solid var(--bord);border-radius:12px}
+figure.capture figcaption{color:var(--doux);font-size:15px;margin-top:8px}
